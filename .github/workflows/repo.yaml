@@ -19,7 +19,6 @@ jobs:
       - name: Install dependencies
         run: |
           pip install requests
-          pip install json
       - name: Run Python file
         run: |
           python get_repos.py
