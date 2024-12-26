@@ -17,15 +17,15 @@ old_data = None
 new_data = None
 try:
     with open('config.json','r') as f:
-        data = json.load(file)
+        data = json.load(f)
     old_data = data
     data['repository'] = repos
     new_data = data
     with open(file_path, "w") as file:
         json.dump(data, file, indent=4)
+    print("\033[1;32mConfig Updated! ✅\033[0m")
 except Exception as e:
     print('\033[31;1mRequest ERROR! Responses (order in - data before edited, data after edits): \033[0m')
     print(old_data)
     print(new_data)
     print(f'Exception: {e}')
-print("\033[1;32mConfig Updated! ✅\033[0m")
