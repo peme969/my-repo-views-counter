@@ -1,8 +1,21 @@
 {
-  "devMode": "false",
-  "advancedMode": "false",
-  "language": "en-US",
-  "repository": [
-    "repository-name"
-  ]
+    "devMode": "false",
+    "advancedMode": "false",
+    "language": "en-US",
+    "repository": [
+        "AutoTyper",
+        "ButtonPy",
+        "CWHQ-Discourse-Bot",
+        "duolingo-2",
+        "GitHub_F4F",
+        "My-Projects",
+        "my-repo-views-counter",
+        "peme969",
+        "peme969.github.io",
+        "register",
+        "spellbook",
+        "web-terminal",
+        "webserver",
+        "youtube-release-notifier"
+    ]
 }
