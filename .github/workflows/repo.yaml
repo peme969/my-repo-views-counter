@@ -3,7 +3,7 @@ name: Get Repo Names from my acc
 on:
   workflow_dispatch:
   schedule:
-    - cron: '10 0 * * *' # 6:30 PM CST 
+    - cron: '10 0 * * *' # 4:00 PM CST 
 
 jobs:
   run-python:
@@ -19,6 +19,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install requests
+          pip install json
       - name: Run Python file
         run: |
           python get_repos.py
