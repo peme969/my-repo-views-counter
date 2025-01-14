@@ -197,22 +197,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/peme969/my-repo-views-counter/tree/master/readme/890051614/year.md">
-				webserver
-			</a>
-		</td>
-		<td>
-			2025/1/12 1:14 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/peme969/my-repo-views-counter/raw/master/graph/890051614/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/peme969/my-repo-views-counter/tree/master/readme/773522475/year.md">
 				youtube-release-notifier
 			</a>
@@ -229,7 +213,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/1/14 1:04 AM UTC</i></small>
+<small><i>Last updated on 2025/1/14 6:20 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
