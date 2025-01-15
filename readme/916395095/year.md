@@ -1,7 +1,7 @@
 ## [🔙 my-repo-views-counter](https://github.com/peme969/my-repo-views-counter)
 
-### :octocat: [My-Projects](https://github.com/peme969/My-Projects)
-![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/graph/736069483/large/year.png)
+### :octocat: [cloudflare-purge-action](https://github.com/peme969/cloudflare-purge-action)
+![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/graph/916395095/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -26,7 +26,7 @@
 			<code>1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>6</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2024/12/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/svg/736069483/badge.svg)](https://github.com/peme969/my-repo-views-counter/blob/master/readme/736069483/week.md)
+[![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/svg/916395095/badge.svg)](https://github.com/peme969/my-repo-views-counter/blob/master/readme/916395095/week.md)
 ```readme
-[![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/svg/736069483/badge.svg)](https://github.com/peme969/my-repo-views-counter/blob/master/readme/736069483/week.md)
+[![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/svg/916395095/badge.svg)](https://github.com/peme969/my-repo-views-counter/blob/master/readme/916395095/week.md)
 ```
 ### Header
-# My-Projects [<img alt="Image of my-repo-views-counter" src="https://github.com/peme969/my-repo-views-counter/blob/master/graph/736069483/small/year.png" height="20">](https://github.com/peme969/my-repo-views-counter/blob/master/readme/736069483/year.md)
+# cloudflare-purge-action [<img alt="Image of my-repo-views-counter" src="https://github.com/peme969/my-repo-views-counter/blob/master/graph/916395095/small/year.png" height="20">](https://github.com/peme969/my-repo-views-counter/blob/master/readme/916395095/year.md)
 ```readme
-# My-Projects [<img alt="Image of my-repo-views-counter" src="https://github.com/peme969/my-repo-views-counter/blob/master/graph/736069483/small/year.png" height="20">](https://github.com/peme969/my-repo-views-counter/blob/master/readme/736069483/year.md)
+# cloudflare-purge-action [<img alt="Image of my-repo-views-counter" src="https://github.com/peme969/my-repo-views-counter/blob/master/graph/916395095/small/year.png" height="20">](https://github.com/peme969/my-repo-views-counter/blob/master/readme/916395095/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
