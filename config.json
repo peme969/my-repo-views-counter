@@ -4,17 +4,19 @@
     "language": "en-US",
     "repository": [
         "AutoTyper",
+        "beta",
         "ButtonPy",
+        "cloudflare-purge-action",
         "CWHQ-Discourse-Bot",
         "GitHub_F4F",
         "My-Projects",
         "my-repo-views-counter",
+        "node-chat-api",
         "peme969",
         "peme969.github.io",
         "register",
         "spellbook",
         "web-terminal",
-        "webserver",
         "youtube-release-notifier"
     ]
 }
