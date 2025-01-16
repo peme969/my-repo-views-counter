@@ -1,7 +1,7 @@
 ## [🔙 my-repo-views-counter](https://github.com/peme969/my-repo-views-counter)
 
-### :octocat: [CWHQ-Discourse-Bot](https://github.com/peme969/CWHQ-Discourse-Bot)
-![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/graph/851934432/large/year.png)
+### :octocat: [hugo-test](https://github.com/peme969/hugo-test)
+![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/graph/916938798/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2025/1/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>3</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>5</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/svg/851934432/badge.svg)](https://github.com/peme969/my-repo-views-counter/blob/master/readme/851934432/week.md)
+[![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/svg/916938798/badge.svg)](https://github.com/peme969/my-repo-views-counter/blob/master/readme/916938798/week.md)
 ```readme
-[![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/svg/851934432/badge.svg)](https://github.com/peme969/my-repo-views-counter/blob/master/readme/851934432/week.md)
+[![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/svg/916938798/badge.svg)](https://github.com/peme969/my-repo-views-counter/blob/master/readme/916938798/week.md)
 ```
 ### Header
-# CWHQ-Discourse-Bot [<img alt="Image of my-repo-views-counter" src="https://github.com/peme969/my-repo-views-counter/blob/master/graph/851934432/small/year.png" height="20">](https://github.com/peme969/my-repo-views-counter/blob/master/readme/851934432/year.md)
+# hugo-test [<img alt="Image of my-repo-views-counter" src="https://github.com/peme969/my-repo-views-counter/blob/master/graph/916938798/small/year.png" height="20">](https://github.com/peme969/my-repo-views-counter/blob/master/readme/916938798/year.md)
 ```readme
-# CWHQ-Discourse-Bot [<img alt="Image of my-repo-views-counter" src="https://github.com/peme969/my-repo-views-counter/blob/master/graph/851934432/small/year.png" height="20">](https://github.com/peme969/my-repo-views-counter/blob/master/readme/851934432/year.md)
+# hugo-test [<img alt="Image of my-repo-views-counter" src="https://github.com/peme969/my-repo-views-counter/blob/master/graph/916938798/small/year.png" height="20">](https://github.com/peme969/my-repo-views-counter/blob/master/readme/916938798/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
