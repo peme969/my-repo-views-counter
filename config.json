@@ -16,6 +16,7 @@
         "register",
         "spellbook",
         "web-terminal",
+        "website",
         "youtube-release-notifier"
     ]
 }
