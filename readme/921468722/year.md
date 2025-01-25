@@ -1,7 +1,7 @@
 ## [🔙 my-repo-views-counter](https://github.com/peme969/my-repo-views-counter)
 
-### :octocat: [cloudflare-purge-action](https://github.com/peme969/cloudflare-purge-action)
-![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/graph/916395095/large/year.png)
+### :octocat: [link-shortener](https://github.com/peme969/link-shortener)
+![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/graph/921468722/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -26,7 +26,7 @@
 			<code>1</code>
 		</td>
 		<td>
-			<code>6</code>
+			<code>8</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2025/1/25 6:17 AM UTC</i></small>
+<small><i>Last updated on 2025/1/25 6:18 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/svg/916395095/badge.svg)](https://github.com/peme969/my-repo-views-counter/blob/master/readme/916395095/week.md)
+[![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/svg/921468722/badge.svg)](https://github.com/peme969/my-repo-views-counter/blob/master/readme/921468722/week.md)
 ```readme
-[![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/svg/916395095/badge.svg)](https://github.com/peme969/my-repo-views-counter/blob/master/readme/916395095/week.md)
+[![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/svg/921468722/badge.svg)](https://github.com/peme969/my-repo-views-counter/blob/master/readme/921468722/week.md)
 ```
 ### Header
-# cloudflare-purge-action [<img alt="Image of my-repo-views-counter" src="https://github.com/peme969/my-repo-views-counter/blob/master/graph/916395095/small/year.png" height="20">](https://github.com/peme969/my-repo-views-counter/blob/master/readme/916395095/year.md)
+# link-shortener [<img alt="Image of my-repo-views-counter" src="https://github.com/peme969/my-repo-views-counter/blob/master/graph/921468722/small/year.png" height="20">](https://github.com/peme969/my-repo-views-counter/blob/master/readme/921468722/year.md)
 ```readme
-# cloudflare-purge-action [<img alt="Image of my-repo-views-counter" src="https://github.com/peme969/my-repo-views-counter/blob/master/graph/916395095/small/year.png" height="20">](https://github.com/peme969/my-repo-views-counter/blob/master/readme/916395095/year.md)
+# link-shortener [<img alt="Image of my-repo-views-counter" src="https://github.com/peme969/my-repo-views-counter/blob/master/graph/921468722/small/year.png" height="20">](https://github.com/peme969/my-repo-views-counter/blob/master/readme/921468722/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
