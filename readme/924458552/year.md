@@ -1,7 +1,7 @@
 ## [🔙 my-repo-views-counter](https://github.com/peme969/my-repo-views-counter)
 
-### :octocat: [My-Projects](https://github.com/peme969/My-Projects)
-![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/graph/736069483/large/year.png)
+### :octocat: [url-shortener](https://github.com/peme969/url-shortener)
+![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/graph/924458552/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -34,10 +34,10 @@
 			<code>2024/12/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2025/1/30 6:19 AM UTC</i></small>
+<small><i>Last updated on 2025/1/30 6:20 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/svg/736069483/badge.svg)](https://github.com/peme969/my-repo-views-counter/blob/master/readme/736069483/week.md)
+[![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/svg/924458552/badge.svg)](https://github.com/peme969/my-repo-views-counter/blob/master/readme/924458552/week.md)
 ```readme
-[![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/svg/736069483/badge.svg)](https://github.com/peme969/my-repo-views-counter/blob/master/readme/736069483/week.md)
+[![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/svg/924458552/badge.svg)](https://github.com/peme969/my-repo-views-counter/blob/master/readme/924458552/week.md)
 ```
 ### Header
-# My-Projects [<img alt="Image of my-repo-views-counter" src="https://github.com/peme969/my-repo-views-counter/blob/master/graph/736069483/small/year.png" height="20">](https://github.com/peme969/my-repo-views-counter/blob/master/readme/736069483/year.md)
+# url-shortener [<img alt="Image of my-repo-views-counter" src="https://github.com/peme969/my-repo-views-counter/blob/master/graph/924458552/small/year.png" height="20">](https://github.com/peme969/my-repo-views-counter/blob/master/readme/924458552/year.md)
 ```readme
-# My-Projects [<img alt="Image of my-repo-views-counter" src="https://github.com/peme969/my-repo-views-counter/blob/master/graph/736069483/small/year.png" height="20">](https://github.com/peme969/my-repo-views-counter/blob/master/readme/736069483/year.md)
+# url-shortener [<img alt="Image of my-repo-views-counter" src="https://github.com/peme969/my-repo-views-counter/blob/master/graph/924458552/small/year.png" height="20">](https://github.com/peme969/my-repo-views-counter/blob/master/readme/924458552/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
