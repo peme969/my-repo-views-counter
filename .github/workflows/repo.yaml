@@ -26,8 +26,15 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
           git add config.json
-          git commit -m "Update config.json via GitHub Actions"
-          git push
+          
+          if git diff --cached --quiet; then
+            echo "Nothing to commit"
+          else
+            git commit -m "Update config.json via GitHub Actions"
+            git push
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
