@@ -1,7 +1,7 @@
 ## [🔙 my-repo-views-counter](https://github.com/peme969/my-repo-views-counter)
 
-### :octocat: [pastebin](https://github.com/peme969/pastebin)
-![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/graph/924459664/large/year.png)
+### :octocat: [Microsoft-Activation-Scripts](https://github.com/peme969/Microsoft-Activation-Scripts)
+![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/graph/965914856/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2025/4/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>2</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>2</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2025/3/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -45,10 +45,10 @@
 			<code>2025/2/1</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>9</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -56,10 +56,10 @@
 			<code>2025/1/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>9</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2025/4/15 6:23 AM UTC</i></small>
+<small><i>Last updated on 2025/4/15 6:22 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/svg/924459664/badge.svg)](https://github.com/peme969/my-repo-views-counter/blob/master/readme/924459664/week.md)
+[![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/svg/965914856/badge.svg)](https://github.com/peme969/my-repo-views-counter/blob/master/readme/965914856/week.md)
 ```readme
-[![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/svg/924459664/badge.svg)](https://github.com/peme969/my-repo-views-counter/blob/master/readme/924459664/week.md)
+[![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/svg/965914856/badge.svg)](https://github.com/peme969/my-repo-views-counter/blob/master/readme/965914856/week.md)
 ```
 ### Header
-# pastebin [<img alt="Image of my-repo-views-counter" src="https://github.com/peme969/my-repo-views-counter/blob/master/graph/924459664/small/year.png" height="20">](https://github.com/peme969/my-repo-views-counter/blob/master/readme/924459664/year.md)
+# Microsoft-Activation-Scripts [<img alt="Image of my-repo-views-counter" src="https://github.com/peme969/my-repo-views-counter/blob/master/graph/965914856/small/year.png" height="20">](https://github.com/peme969/my-repo-views-counter/blob/master/readme/965914856/year.md)
 ```readme
-# pastebin [<img alt="Image of my-repo-views-counter" src="https://github.com/peme969/my-repo-views-counter/blob/master/graph/924459664/small/year.png" height="20">](https://github.com/peme969/my-repo-views-counter/blob/master/readme/924459664/year.md)
+# Microsoft-Activation-Scripts [<img alt="Image of my-repo-views-counter" src="https://github.com/peme969/my-repo-views-counter/blob/master/graph/965914856/small/year.png" height="20">](https://github.com/peme969/my-repo-views-counter/blob/master/readme/965914856/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
