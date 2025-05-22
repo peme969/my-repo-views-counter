@@ -3,6 +3,7 @@
     "advancedMode": "false",
     "language": "en-US",
     "repository": [
+        ".fyi",
         "AutoTyper",
         "ButtonPy",
         "cloudflare-purge-action",
