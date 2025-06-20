@@ -2,27 +2,5 @@
     "devMode": "false",
     "advancedMode": "false",
     "language": "en-US",
-    "repository": [
-        ".fyi",
-        "AutoTyper",
-        "ButtonPy",
-        "cloudflare-purge-action",
-        "CWHQ-Discourse-Bot",
-        "GitHub_F4F",
-        "Microsoft-Activation-Scripts",
-        "My-Projects",
-        "my-repo-views-counter",
-        "node-chat-api",
-        "pastebin",
-        "peme969",
-        "peme969.github.io",
-        "register",
-        "spellbook",
-        "startpage",
-        "umami-analytics",
-        "url-shortener",
-        "web-terminal",
-        "website",
-        "youtube-release-notifier"
-    ]
+    "repository": []
 }
