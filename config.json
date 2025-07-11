@@ -5,6 +5,7 @@
     "repository": [
         ".fyi",
         "AutoTyper",
+        "avatar-editor",
         "ButtonPy",
         "cloudflare-purge-action",
         "CWHQ-Discourse-Bot",
