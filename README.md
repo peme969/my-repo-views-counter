@@ -21,12 +21,28 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/peme969/my-repo-views-counter/tree/master/readme/987488312/year.md">
+				.fyi
+			</a>
+		</td>
+		<td>
+			2025/7/13 6:24 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/peme969/my-repo-views-counter/raw/master/graph/987488312/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/peme969/my-repo-views-counter/tree/master/readme/741091865/year.md">
 				AutoTyper
 			</a>
 		</td>
 		<td>
-			2025/4/13 2:39 AM UTC
+			2025/7/14 6:24 PM UTC
 		</td>
 		<td>
 			13
@@ -37,12 +53,28 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/peme969/my-repo-views-counter/tree/master/readme/1017485180/year.md">
+				avatar-editor
+			</a>
+		</td>
+		<td>
+			2025/7/13 6:24 PM UTC
+		</td>
+		<td>
+			3
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/peme969/my-repo-views-counter/raw/master/graph/1017485180/small/year.png" height="20"> 49
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/peme969/my-repo-views-counter/tree/master/readme/900527878/year.md">
 				ButtonPy
 			</a>
 		</td>
 		<td>
-			2025/4/13 2:39 AM UTC
+			2025/7/14 6:24 PM UTC
 		</td>
 		<td>
 			6
@@ -58,7 +90,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/4/13 2:40 AM UTC
+			2025/7/14 6:24 PM UTC
 		</td>
 		<td>
 			2
@@ -74,13 +106,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/4/13 2:40 AM UTC
+			2025/7/14 6:24 PM UTC
 		</td>
 		<td>
-			3
+			4
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/peme969/my-repo-views-counter/raw/master/graph/851934432/small/year.png" height="20"> 7
+			<img alt="Response time graph" src="https://github.com/peme969/my-repo-views-counter/raw/master/graph/851934432/small/year.png" height="20"> 11
 		</td>
 	</tr>
 	<tr>
@@ -90,13 +122,29 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/4/13 2:40 AM UTC
+			2025/7/14 6:25 PM UTC
 		</td>
 		<td>
-			30
+			32
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/peme969/my-repo-views-counter/raw/master/graph/901920991/small/year.png" height="20"> 444
+			<img alt="Response time graph" src="https://github.com/peme969/my-repo-views-counter/raw/master/graph/901920991/small/year.png" height="20"> 447
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/peme969/my-repo-views-counter/tree/master/readme/1015054463/year.md">
+				lazercore
+			</a>
+		</td>
+		<td>
+			2025/7/13 6:25 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/peme969/my-repo-views-counter/raw/master/graph/1015054463/small/year.png" height="20"> 12
 		</td>
 	</tr>
 	<tr>
@@ -106,13 +154,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/4/13 6:22 AM UTC
+			2025/7/14 6:25 PM UTC
 		</td>
 		<td>
-			2
+			4
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/peme969/my-repo-views-counter/raw/master/graph/965914856/small/year.png" height="20"> 2
+			<img alt="Response time graph" src="https://github.com/peme969/my-repo-views-counter/raw/master/graph/965914856/small/year.png" height="20"> 4
 		</td>
 	</tr>
 	<tr>
@@ -122,7 +170,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/4/13 2:40 AM UTC
+			2025/7/14 6:25 PM UTC
 		</td>
 		<td>
 			7
@@ -138,13 +186,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/4/13 2:40 AM UTC
+			2025/7/14 6:25 PM UTC
 		</td>
 		<td>
-			22
+			24
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/peme969/my-repo-views-counter/raw/master/graph/908384355/small/year.png" height="20"> 236
+			<img alt="Response time graph" src="https://github.com/peme969/my-repo-views-counter/raw/master/graph/908384355/small/year.png" height="20"> 240
 		</td>
 	</tr>
 	<tr>
@@ -154,7 +202,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/4/13 2:40 AM UTC
+			2025/7/14 6:25 PM UTC
 		</td>
 		<td>
 			4
@@ -170,7 +218,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/4/13 2:40 AM UTC
+			2025/7/14 6:25 PM UTC
 		</td>
 		<td>
 			8
@@ -186,13 +234,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/4/13 2:41 AM UTC
+			2025/7/14 6:25 PM UTC
 		</td>
 		<td>
-			24
+			25
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/peme969/my-repo-views-counter/raw/master/graph/651322699/small/year.png" height="20"> 261
+			<img alt="Response time graph" src="https://github.com/peme969/my-repo-views-counter/raw/master/graph/651322699/small/year.png" height="20"> 267
 		</td>
 	</tr>
 	<tr>
@@ -202,7 +250,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/4/13 2:41 AM UTC
+			2025/7/14 6:26 PM UTC
 		</td>
 		<td>
 			15
@@ -218,7 +266,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/4/13 2:41 AM UTC
+			2025/7/14 6:26 PM UTC
 		</td>
 		<td>
 			14
@@ -229,12 +277,28 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/peme969/my-repo-views-counter/tree/master/readme/1014948022/year.md">
+				Royal-Kludge-R75
+			</a>
+		</td>
+		<td>
+			2025/7/13 6:26 PM UTC
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/peme969/my-repo-views-counter/raw/master/graph/1014948022/small/year.png" height="20"> 63
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/peme969/my-repo-views-counter/tree/master/readme/816492086/year.md">
 				spellbook
 			</a>
 		</td>
 		<td>
-			2025/4/13 2:41 AM UTC
+			2025/7/14 6:26 PM UTC
 		</td>
 		<td>
 			2
@@ -250,7 +314,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/4/13 2:41 AM UTC
+			2025/7/14 6:26 PM UTC
 		</td>
 		<td>
 			6
@@ -261,12 +325,28 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/peme969/my-repo-views-counter/tree/master/readme/991649950/year.md">
+				umami-analytics
+			</a>
+		</td>
+		<td>
+			2025/7/13 6:26 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/peme969/my-repo-views-counter/raw/master/graph/991649950/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/peme969/my-repo-views-counter/tree/master/readme/924458552/year.md">
 				url-shortener
 			</a>
 		</td>
 		<td>
-			2025/4/13 2:41 AM UTC
+			2025/7/14 6:26 PM UTC
 		</td>
 		<td>
 			8
@@ -282,7 +362,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/4/13 2:41 AM UTC
+			2025/7/14 6:26 PM UTC
 		</td>
 		<td>
 			3
@@ -298,13 +378,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/4/13 2:41 AM UTC
+			2025/7/14 6:27 PM UTC
 		</td>
 		<td>
-			32
+			33
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/peme969/my-repo-views-counter/raw/master/graph/920374311/small/year.png" height="20"> 378
+			<img alt="Response time graph" src="https://github.com/peme969/my-repo-views-counter/raw/master/graph/920374311/small/year.png" height="20"> 379
 		</td>
 	</tr>
 	<tr>
@@ -314,7 +394,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/4/13 2:42 AM UTC
+			2025/7/14 6:27 PM UTC
 		</td>
 		<td>
 			3
@@ -325,7 +405,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/4/15 12:32 PM UTC</i></small>
+<small><i>Last updated on 2025/7/16 6:27 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
