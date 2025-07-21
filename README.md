@@ -229,6 +229,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/peme969/my-repo-views-counter/tree/master/readme/1023064700/year.md">
+				Obsidian-Bible-KJV
+			</a>
+		</td>
+		<td>
+			2025/7/18 6:28 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/peme969/my-repo-views-counter/raw/master/graph/1023064700/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/peme969/my-repo-views-counter/tree/master/readme/924459664/year.md">
 				pastebin
 			</a>
@@ -421,7 +437,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/7/21 1:30 AM UTC</i></small>
+<small><i>Last updated on 2025/7/21 6:29 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
