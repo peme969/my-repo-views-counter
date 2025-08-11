@@ -1,6 +1,6 @@
 ## [🔙 my-repo-views-counter](https://github.com/peme969/my-repo-views-counter)
 
-### :octocat: [url-shortener](https://github.com/peme969/url-shortener)
+### :octocat: [Linky](https://github.com/peme969/Linky)
 ![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/graph/924458552/large/year.png)
 
 <details>
@@ -23,10 +23,10 @@
 			<code>2025/8/1</code>
 		</td>
 		<td>
-			<code>6</code>
+			<code>7</code>
 		</td>
 		<td>
-			<code>36</code>
+			<code>144</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2025/8/11 12:39 PM UTC</i></small>
+<small><i>Last updated on 2025/8/11 6:28 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +173,9 @@
 [![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/svg/924458552/badge.svg)](https://github.com/peme969/my-repo-views-counter/blob/master/readme/924458552/week.md)
 ```
 ### Header
-# url-shortener [<img alt="Image of my-repo-views-counter" src="https://github.com/peme969/my-repo-views-counter/blob/master/graph/924458552/small/year.png" height="20">](https://github.com/peme969/my-repo-views-counter/blob/master/readme/924458552/year.md)
+# Linky [<img alt="Image of my-repo-views-counter" src="https://github.com/peme969/my-repo-views-counter/blob/master/graph/924458552/small/year.png" height="20">](https://github.com/peme969/my-repo-views-counter/blob/master/readme/924458552/year.md)
 ```readme
-# url-shortener [<img alt="Image of my-repo-views-counter" src="https://github.com/peme969/my-repo-views-counter/blob/master/graph/924458552/small/year.png" height="20">](https://github.com/peme969/my-repo-views-counter/blob/master/readme/924458552/year.md)
+# Linky [<img alt="Image of my-repo-views-counter" src="https://github.com/peme969/my-repo-views-counter/blob/master/graph/924458552/small/year.png" height="20">](https://github.com/peme969/my-repo-views-counter/blob/master/readme/924458552/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
