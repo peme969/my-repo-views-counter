@@ -1,7 +1,7 @@
 ## [🔙 my-repo-views-counter](https://github.com/peme969/my-repo-views-counter)
 
-### :octocat: [GitHub_F4F](https://github.com/peme969/GitHub_F4F)
-![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/graph/901920991/large/year.png)
+### :octocat: [hypria](https://github.com/peme969/hypria)
+![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/graph/1036678431/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -26,7 +26,7 @@
 			<code>2</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>19</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2025/7/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -78,10 +78,10 @@
 			<code>2025/3/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -89,10 +89,10 @@
 			<code>2025/2/1</code>
 		</td>
 		<td>
-			<code>7</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>24</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -100,10 +100,10 @@
 			<code>2025/1/1</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>22</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -111,10 +111,10 @@
 			<code>2024/12/1</code>
 		</td>
 		<td>
-			<code>9</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>307</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/svg/901920991/badge.svg)](https://github.com/peme969/my-repo-views-counter/blob/master/readme/901920991/week.md)
+[![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/svg/1036678431/badge.svg)](https://github.com/peme969/my-repo-views-counter/blob/master/readme/1036678431/week.md)
 ```readme
-[![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/svg/901920991/badge.svg)](https://github.com/peme969/my-repo-views-counter/blob/master/readme/901920991/week.md)
+[![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/svg/1036678431/badge.svg)](https://github.com/peme969/my-repo-views-counter/blob/master/readme/1036678431/week.md)
 ```
 ### Header
-# GitHub_F4F [<img alt="Image of my-repo-views-counter" src="https://github.com/peme969/my-repo-views-counter/blob/master/graph/901920991/small/year.png" height="20">](https://github.com/peme969/my-repo-views-counter/blob/master/readme/901920991/year.md)
+# hypria [<img alt="Image of my-repo-views-counter" src="https://github.com/peme969/my-repo-views-counter/blob/master/graph/1036678431/small/year.png" height="20">](https://github.com/peme969/my-repo-views-counter/blob/master/readme/1036678431/year.md)
 ```readme
-# GitHub_F4F [<img alt="Image of my-repo-views-counter" src="https://github.com/peme969/my-repo-views-counter/blob/master/graph/901920991/small/year.png" height="20">](https://github.com/peme969/my-repo-views-counter/blob/master/readme/901920991/year.md)
+# hypria [<img alt="Image of my-repo-views-counter" src="https://github.com/peme969/my-repo-views-counter/blob/master/graph/1036678431/small/year.png" height="20">](https://github.com/peme969/my-repo-views-counter/blob/master/readme/1036678431/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
