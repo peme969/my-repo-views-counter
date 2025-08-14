@@ -181,6 +181,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/peme969/my-repo-views-counter/tree/master/readme/1037453115/year.md">
+				hypria-api
+			</a>
+		</td>
+		<td>
+			2025/8/11 6:27 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/peme969/my-repo-views-counter/raw/master/graph/1037453115/small/year.png" height="20"> 49
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/peme969/my-repo-views-counter/tree/master/readme/1015054463/year.md">
 				lazercore
 			</a>
@@ -485,7 +501,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/8/14 1:23 AM UTC</i></small>
+<small><i>Last updated on 2025/8/14 6:29 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

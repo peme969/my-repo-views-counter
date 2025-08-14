@@ -1,7 +1,7 @@
 ## [🔙 my-repo-views-counter](https://github.com/peme969/my-repo-views-counter)
 
-### :octocat: [register](https://github.com/peme969/register)
-![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/graph/728818826/large/year.png)
+### :octocat: [hypria-api](https://github.com/peme969/hypria-api)
+![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/graph/1037453115/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2025/8/1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>2</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>49</code>
 		</td>
 	</tr>
 	<tr>
@@ -78,10 +78,10 @@
 			<code>2025/3/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -100,10 +100,10 @@
 			<code>2025/1/1</code>
 		</td>
 		<td>
-			<code>12</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>111</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2025/8/14 6:28 AM UTC</i></small>
+<small><i>Last updated on 2025/8/14 6:27 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/svg/728818826/badge.svg)](https://github.com/peme969/my-repo-views-counter/blob/master/readme/728818826/week.md)
+[![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/svg/1037453115/badge.svg)](https://github.com/peme969/my-repo-views-counter/blob/master/readme/1037453115/week.md)
 ```readme
-[![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/svg/728818826/badge.svg)](https://github.com/peme969/my-repo-views-counter/blob/master/readme/728818826/week.md)
+[![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/svg/1037453115/badge.svg)](https://github.com/peme969/my-repo-views-counter/blob/master/readme/1037453115/week.md)
 ```
 ### Header
-# register [<img alt="Image of my-repo-views-counter" src="https://github.com/peme969/my-repo-views-counter/blob/master/graph/728818826/small/year.png" height="20">](https://github.com/peme969/my-repo-views-counter/blob/master/readme/728818826/year.md)
+# hypria-api [<img alt="Image of my-repo-views-counter" src="https://github.com/peme969/my-repo-views-counter/blob/master/graph/1037453115/small/year.png" height="20">](https://github.com/peme969/my-repo-views-counter/blob/master/readme/1037453115/year.md)
 ```readme
-# register [<img alt="Image of my-repo-views-counter" src="https://github.com/peme969/my-repo-views-counter/blob/master/graph/728818826/small/year.png" height="20">](https://github.com/peme969/my-repo-views-counter/blob/master/readme/728818826/year.md)
+# hypria-api [<img alt="Image of my-repo-views-counter" src="https://github.com/peme969/my-repo-views-counter/blob/master/graph/1037453115/small/year.png" height="20">](https://github.com/peme969/my-repo-views-counter/blob/master/readme/1037453115/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
