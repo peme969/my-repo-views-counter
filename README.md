@@ -69,22 +69,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/peme969/my-repo-views-counter/tree/master/readme/1017485180/year.md">
-				avatar-editor
-			</a>
-		</td>
-		<td>
-			2025/8/24 1:22 AM UTC
-		</td>
-		<td>
-			17
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/peme969/my-repo-views-counter/raw/master/graph/1017485180/small/year.png" height="20"> 146
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/peme969/my-repo-views-counter/tree/master/readme/900527878/year.md">
 				ButtonPy
 			</a>
@@ -501,7 +485,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/8/26 1:18 AM UTC</i></small>
+<small><i>Last updated on 2025/8/26 6:28 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
