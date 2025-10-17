@@ -16,6 +16,7 @@
         "hypria-api",
         "lazercore",
         "Linky",
+        "macos-traffic-light-buttons-as-SVG",
         "Microsoft-Activation-Scripts",
         "My-Projects",
         "my-repo-views-counter",
@@ -31,7 +32,6 @@
         "startpage",
         "umami-analytics",
         "web-terminal",
-        "website",
-        "youtube-release-notifier"
+        "website"
     ]
 }
