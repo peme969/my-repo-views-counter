@@ -229,6 +229,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/peme969/my-repo-views-counter/tree/master/readme/1077930421/year.md">
+				macos-traffic-light-buttons-as-SVG
+			</a>
+		</td>
+		<td>
+			2025/10/14 6:24 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/peme969/my-repo-views-counter/raw/master/graph/1077930421/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/peme969/my-repo-views-counter/tree/master/readme/965914856/year.md">
 				Microsoft-Activation-Scripts
 			</a>
@@ -483,25 +499,9 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/peme969/my-repo-views-counter/raw/master/graph/920374311/small/year.png" height="20"> 410
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/peme969/my-repo-views-counter/tree/master/readme/773522475/year.md">
-				youtube-release-notifier
-			</a>
-		</td>
-		<td>
-			2025/10/15 1:16 AM UTC
-		</td>
-		<td>
-			10
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/peme969/my-repo-views-counter/raw/master/graph/773522475/small/year.png" height="20"> 23
-		</td>
-	</tr>
 </table>
 
-<small><i>Last updated on 2025/10/17 1:16 AM UTC</i></small>
+<small><i>Last updated on 2025/10/17 6:26 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

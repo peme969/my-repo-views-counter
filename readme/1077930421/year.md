@@ -1,7 +1,7 @@
 ## [🔙 my-repo-views-counter](https://github.com/peme969/my-repo-views-counter)
 
-### :octocat: [lazercore](https://github.com/peme969/lazercore)
-![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/graph/1015054463/large/year.png)
+### :octocat: [macos-traffic-light-buttons-as-SVG](https://github.com/peme969/macos-traffic-light-buttons-as-SVG)
+![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/graph/1077930421/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -56,10 +56,10 @@
 			<code>2025/7/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>14</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/svg/1015054463/badge.svg)](https://github.com/peme969/my-repo-views-counter/blob/master/readme/1015054463/week.md)
+[![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/svg/1077930421/badge.svg)](https://github.com/peme969/my-repo-views-counter/blob/master/readme/1077930421/week.md)
 ```readme
-[![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/svg/1015054463/badge.svg)](https://github.com/peme969/my-repo-views-counter/blob/master/readme/1015054463/week.md)
+[![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/svg/1077930421/badge.svg)](https://github.com/peme969/my-repo-views-counter/blob/master/readme/1077930421/week.md)
 ```
 ### Header
-# lazercore [<img alt="Image of my-repo-views-counter" src="https://github.com/peme969/my-repo-views-counter/blob/master/graph/1015054463/small/year.png" height="20">](https://github.com/peme969/my-repo-views-counter/blob/master/readme/1015054463/year.md)
+# macos-traffic-light-buttons-as-SVG [<img alt="Image of my-repo-views-counter" src="https://github.com/peme969/my-repo-views-counter/blob/master/graph/1077930421/small/year.png" height="20">](https://github.com/peme969/my-repo-views-counter/blob/master/readme/1077930421/year.md)
 ```readme
-# lazercore [<img alt="Image of my-repo-views-counter" src="https://github.com/peme969/my-repo-views-counter/blob/master/graph/1015054463/small/year.png" height="20">](https://github.com/peme969/my-repo-views-counter/blob/master/readme/1015054463/year.md)
+# macos-traffic-light-buttons-as-SVG [<img alt="Image of my-repo-views-counter" src="https://github.com/peme969/my-repo-views-counter/blob/master/graph/1077930421/small/year.png" height="20">](https://github.com/peme969/my-repo-views-counter/blob/master/readme/1077930421/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
