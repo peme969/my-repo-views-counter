@@ -11,6 +11,7 @@
         "cloudflare-purge-action",
         "CWHQ-Discourse-Bot",
         "dinosaurs",
+        "forked-Dotfiles",
         "GitHub_F4F",
         "hypria",
         "hypria-api",
@@ -31,7 +32,6 @@
         "spellbook",
         "startpage",
         "umami-analytics",
-        "web-terminal",
-        "website"
+        "web-terminal"
     ]
 }
