@@ -37,6 +37,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/peme969/my-repo-views-counter/tree/master/readme/1094323478/year.md">
+				about-me-shortly
+			</a>
+		</td>
+		<td>
+			2025/11/9 6:25 AM UTC
+		</td>
+		<td>
+			3
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/peme969/my-repo-views-counter/raw/master/graph/1094323478/small/year.png" height="20"> 8
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/peme969/my-repo-views-counter/tree/master/readme/741091865/year.md">
 				AutoTyper
 			</a>
@@ -483,25 +499,9 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/peme969/my-repo-views-counter/raw/master/graph/991649950/small/year.png" height="20"> 0
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/peme969/my-repo-views-counter/tree/master/readme/840047712/year.md">
-				web-terminal
-			</a>
-		</td>
-		<td>
-			2025/11/10 1:23 AM UTC
-		</td>
-		<td>
-			4
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/peme969/my-repo-views-counter/raw/master/graph/840047712/small/year.png" height="20"> 10
-		</td>
-	</tr>
 </table>
 
-<small><i>Last updated on 2025/11/12 1:20 AM UTC</i></small>
+<small><i>Last updated on 2025/11/12 6:29 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
