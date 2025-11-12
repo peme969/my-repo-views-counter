@@ -4,6 +4,7 @@
     "language": "en-US",
     "repository": [
         ".fyi",
+        "about-me-shortly",
         "AutoTyper",
         "AutoTyper-test",
         "avatar-editor",
@@ -31,7 +32,6 @@
         "ScreenShot-Tool",
         "spellbook",
         "startpage",
-        "umami-analytics",
-        "web-terminal"
+        "umami-analytics"
     ]
 }
