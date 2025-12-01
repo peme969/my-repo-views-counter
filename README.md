@@ -181,6 +181,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/peme969/my-repo-views-counter/tree/master/readme/1107194504/year.md">
+				github-readme-stats
+			</a>
+		</td>
+		<td>
+			2025/11/28 6:29 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/peme969/my-repo-views-counter/raw/master/graph/1107194504/small/year.png" height="20"> 2
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/peme969/my-repo-views-counter/tree/master/readme/901920991/year.md">
 				GitHub_F4F
 			</a>
@@ -483,25 +499,9 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/peme969/my-repo-views-counter/raw/master/graph/935177841/small/year.png" height="20"> 22
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/peme969/my-repo-views-counter/tree/master/readme/991649950/year.md">
-				umami-analytics
-			</a>
-		</td>
-		<td>
-			2025/11/29 1:18 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/peme969/my-repo-views-counter/raw/master/graph/991649950/small/year.png" height="20"> 0
-		</td>
-	</tr>
 </table>
 
-<small><i>Last updated on 2025/12/1 1:44 AM UTC</i></small>
+<small><i>Last updated on 2025/12/1 6:32 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
