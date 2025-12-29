@@ -181,6 +181,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/peme969/my-repo-views-counter/tree/master/readme/1124414575/year.md">
+				github-profile-trophy
+			</a>
+		</td>
+		<td>
+			2025/12/26 12:00 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/peme969/my-repo-views-counter/raw/master/graph/1124414575/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/peme969/my-repo-views-counter/tree/master/readme/1107194504/year.md">
 				github-readme-stats
 			</a>
@@ -193,6 +209,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/peme969/my-repo-views-counter/raw/master/graph/1107194504/small/year.png" height="20"> 4
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/peme969/my-repo-views-counter/tree/master/readme/1124418255/year.md">
+				github-trophies
+			</a>
+		</td>
+		<td>
+			2025/12/26 12:00 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/peme969/my-repo-views-counter/raw/master/graph/1124418255/small/year.png" height="20"> 0
 		</td>
 	</tr>
 	<tr>
@@ -467,41 +499,9 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/peme969/my-repo-views-counter/raw/master/graph/1025091700/small/year.png" height="20"> 23
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/peme969/my-repo-views-counter/tree/master/readme/816492086/year.md">
-				spellbook
-			</a>
-		</td>
-		<td>
-			2025/12/27 1:22 AM UTC
-		</td>
-		<td>
-			5
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/peme969/my-repo-views-counter/raw/master/graph/816492086/small/year.png" height="20"> 5
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/peme969/my-repo-views-counter/tree/master/readme/935177841/year.md">
-				startpage
-			</a>
-		</td>
-		<td>
-			2025/12/27 1:22 AM UTC
-		</td>
-		<td>
-			7
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/peme969/my-repo-views-counter/raw/master/graph/935177841/small/year.png" height="20"> 22
-		</td>
-	</tr>
 </table>
 
-<small><i>Last updated on 2025/12/29 1:31 AM UTC</i></small>
+<small><i>Last updated on 2025/12/29 6:33 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
