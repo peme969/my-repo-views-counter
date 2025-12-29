@@ -213,22 +213,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/peme969/my-repo-views-counter/tree/master/readme/1124418255/year.md">
-				github-trophies
-			</a>
-		</td>
-		<td>
-			2025/12/27 12:00 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/peme969/my-repo-views-counter/raw/master/graph/1124418255/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/peme969/my-repo-views-counter/tree/master/readme/901920991/year.md">
 				GitHub_F4F
 			</a>
@@ -501,7 +485,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/12/29 12:41 PM UTC</i></small>
+<small><i>Last updated on 2025/12/29 6:29 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
