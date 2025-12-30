@@ -483,9 +483,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/peme969/my-repo-views-counter/raw/master/graph/1025091700/small/year.png" height="20"> 23
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/peme969/my-repo-views-counter/tree/master/readme/816492086/year.md">
+				spellbook
+			</a>
+		</td>
+		<td>
+			2025/12/28 1:42 AM UTC
+		</td>
+		<td>
+			5
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/peme969/my-repo-views-counter/raw/master/graph/816492086/small/year.png" height="20"> 5
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2025/12/30 1:24 AM UTC</i></small>
+<small><i>Last updated on 2025/12/30 6:31 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
