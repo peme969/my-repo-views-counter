@@ -437,22 +437,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/peme969/my-repo-views-counter/tree/master/readme/728818826/year.md">
-				register
-			</a>
-		</td>
-		<td>
-			2025/12/28 1:42 AM UTC
-		</td>
-		<td>
-			14
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/peme969/my-repo-views-counter/raw/master/graph/728818826/small/year.png" height="20"> 180
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/peme969/my-repo-views-counter/tree/master/readme/1014948022/year.md">
 				Royal-Kludge-R75
 			</a>
@@ -501,7 +485,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/12/30 12:40 PM UTC</i></small>
+<small><i>Last updated on 2025/12/30 6:30 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
