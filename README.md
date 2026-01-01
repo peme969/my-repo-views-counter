@@ -483,9 +483,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/peme969/my-repo-views-counter/raw/master/graph/935177841/small/year.png" height="20"> 22
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/peme969/my-repo-views-counter/tree/master/readme/840047712/year.md">
+				web-terminal
+			</a>
+		</td>
+		<td>
+			2025/12/30 6:31 AM UTC
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/peme969/my-repo-views-counter/raw/master/graph/840047712/small/year.png" height="20"> 10
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2026/1/1 1:43 AM UTC</i></small>
+<small><i>Last updated on 2026/1/1 6:31 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
