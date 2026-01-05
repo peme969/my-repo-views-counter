@@ -15,7 +15,7 @@ jobs:
 
       - name: Configure Git Identity
         run: |
-          git config --global user.name "Peme969 [dev]"
+          git config --global user.name "Peme969"
           git config --global user.email "github@peme969.dev"
 
       - uses: actions/setup-node@v2.1.5
