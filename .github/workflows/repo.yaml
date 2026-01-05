@@ -24,8 +24,8 @@ jobs:
           python get_repos.py
       - name: Commit and Push Changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "Peme969 [dev]"
+          git config --global user.email "github@peme969.dev"
           
           git add config.json
           
