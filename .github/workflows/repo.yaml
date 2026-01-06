@@ -32,7 +32,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "Nothing to commit"
           else
-            git commit -m "Update config.json via GitHub Actions"
+            git commit -m $'[py] Update config.json with repos\n\nCo-authored-by: CodeCompanionX <bot@peme969.dev>'
             git push
           fi
         env:
