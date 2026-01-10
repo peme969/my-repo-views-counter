@@ -1,7 +1,7 @@
 ## [🔙 my-repo-views-counter](https://github.com/peme969/my-repo-views-counter)
 
-### :octocat: [ScreenShot-Tool](https://github.com/peme969/ScreenShot-Tool)
-![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/graph/1025091700/large/year.png)
+### :octocat: [github-contributions-graphs](https://github.com/peme969/github-contributions-graphs)
+![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/graph/1130935834/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2026/1/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>5</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -45,10 +45,10 @@
 			<code>2025/11/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -78,10 +78,10 @@
 			<code>2025/8/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -89,10 +89,10 @@
 			<code>2025/7/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>10</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2026/1/10 6:29 AM UTC</i></small>
+<small><i>Last updated on 2026/1/10 6:27 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/svg/1025091700/badge.svg)](https://github.com/peme969/my-repo-views-counter/blob/master/readme/1025091700/week.md)
+[![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/svg/1130935834/badge.svg)](https://github.com/peme969/my-repo-views-counter/blob/master/readme/1130935834/week.md)
 ```readme
-[![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/svg/1025091700/badge.svg)](https://github.com/peme969/my-repo-views-counter/blob/master/readme/1025091700/week.md)
+[![Image of my-repo-views-counter](https://github.com/peme969/my-repo-views-counter/blob/master/svg/1130935834/badge.svg)](https://github.com/peme969/my-repo-views-counter/blob/master/readme/1130935834/week.md)
 ```
 ### Header
-# ScreenShot-Tool [<img alt="Image of my-repo-views-counter" src="https://github.com/peme969/my-repo-views-counter/blob/master/graph/1025091700/small/year.png" height="20">](https://github.com/peme969/my-repo-views-counter/blob/master/readme/1025091700/year.md)
+# github-contributions-graphs [<img alt="Image of my-repo-views-counter" src="https://github.com/peme969/my-repo-views-counter/blob/master/graph/1130935834/small/year.png" height="20">](https://github.com/peme969/my-repo-views-counter/blob/master/readme/1130935834/year.md)
 ```readme
-# ScreenShot-Tool [<img alt="Image of my-repo-views-counter" src="https://github.com/peme969/my-repo-views-counter/blob/master/graph/1025091700/small/year.png" height="20">](https://github.com/peme969/my-repo-views-counter/blob/master/readme/1025091700/year.md)
+# github-contributions-graphs [<img alt="Image of my-repo-views-counter" src="https://github.com/peme969/my-repo-views-counter/blob/master/graph/1130935834/small/year.png" height="20">](https://github.com/peme969/my-repo-views-counter/blob/master/readme/1130935834/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
