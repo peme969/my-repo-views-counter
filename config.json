@@ -11,7 +11,6 @@
         "ButtonPy",
         "cloudflare-purge-action",
         "CWHQ-Discourse-Bot",
-        "dinosaurs",
         "forked-Dotfiles",
         "github-contribution-graph-generator",
         "github-contributions-graphs",
@@ -32,6 +31,7 @@
         "peme969",
         "peme969.github.io",
         "ScreenShot-Tool",
-        "Sink"
+        "Sink",
+        "startpage"
     ]
 }
